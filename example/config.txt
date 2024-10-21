@@ -1,0 +1,2 @@
+Prefix plugins/FASTAEven/example/
+Plugin FASTAEven inputfile SR.fa outputfile SR.seq
